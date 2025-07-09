@@ -1,0 +1,7 @@
+node_modules
+cert/*.pem
+cert/*.cer
+cert/*.p7b
+cert/*.crt
+cert/*.key
+main.js
